@@ -1,5 +1,5 @@
 # ====================================================================
-# DAY 1 PROJECT: Your Personal Profile
+# DAY 1 PROJECT: My Personal Profile
 # ====================================================================
 #
 # Welcome to your first project! The goal is to use the skills you
@@ -19,10 +19,10 @@
 # my_name = "Alex"
 
 # YOUR CODE HERE: Create variables for your name, location, hobby, and a fun fact.
-# my_name = ...
-# my_location = ...
-# my_hobby = ...
-# my_fun_fact = ...
+# my_name = 'Patience Mupikeni'
+# my_location = 'Harare, Zimbabwe'
+# my_hobby = 'coding'
+# my_fun_fact = 'resilient'
 
 
 
@@ -39,13 +39,16 @@
 # YOUR CODE HERE: Write your print statements below.
 #
 # Example:
-# print("**********************************")
+# print("***************************")
 # print("* *")
 # print("* -- MY AWESOME PROFILE --    *")
 # print("* *")
 # print("**********************************")
 # print() # This creates an empty line
 # print("Hello, my name is:", my_name)
+# print(f'I am from {my_location}')
+# print(f"I love to do {my_hobby}")
+# print(f'A fun fact about me is, I am {my_fun_fact}'
 # ... and so on for the rest of your variables.
 #
 # Don't forget to add some ASCII art!
